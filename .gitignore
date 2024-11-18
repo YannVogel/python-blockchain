@@ -3,3 +3,5 @@
 .venv
 
 blockchain.txt
+__pycache__/
+*.pyc
