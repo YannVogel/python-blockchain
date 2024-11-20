@@ -2,8 +2,8 @@
 .DS_Store
 .venv
 
-blockchain.txt
+blockchain*.txt
 __pycache__/
 *.pyc
 
-wallet.txt
+wallet*.txt
